@@ -1,4 +1,4 @@
-Test website using Polypane, a browser for testing and debugging websites across multiple viewports and ensuring accessibility compliance.
+Test website using <a href="https://polypane.app">Polypane</a>, a browser for testing and debugging websites across multiple viewports and ensuring accessibility compliance.
 
 - unified element inspector: opt + click an element
 
