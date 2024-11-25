@@ -1,1 +1,1 @@
-Public Email created at titan.email
+Public Email created at <a href="https://titan.email">titan.email</a>
