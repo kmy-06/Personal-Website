@@ -10,6 +10,6 @@ Test website using <a href="https://polypane.app">Polypane</a>, a browser for te
 
 - zoom in & out: double click on 100%
 
-- dark or light mode: cmd + i
+- dark or light mode in webite: cmd + i
 
-- 
+
