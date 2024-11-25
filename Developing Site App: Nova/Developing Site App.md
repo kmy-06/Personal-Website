@@ -1,1 +1,1 @@
-Full Stack developing of website using Nova, which supports HTML, CSS, Javascript and PHP
+Full Stack developing of website using <a href="https://nova.app">Nova</a>, which supports HTML, CSS, Javascript and PHP
