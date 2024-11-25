@@ -1,4 +1,4 @@
-Creating a site using Bootstrap Studio, a tool for visually designing and prototyping websites.
+Creating a site using <a href="https://bootstrapstudio.io">Bootstrap Studio</a>, a tool for visually designing and prototyping websites.
 
 ### Why Bootstrap Studio?
 
