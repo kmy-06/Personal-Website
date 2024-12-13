@@ -3,4 +3,4 @@
 
 ### Still in development: 
 
-##### I will publish the code once I fully modified & improved all the website code so that people who need can just copy can paste to use the code.
+##### I will publish the code once I fully modified & improved all the website code so that people who need can just copy and paste to use the code.
