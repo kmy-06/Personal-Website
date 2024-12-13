@@ -1,5 +1,6 @@
-# Personal-Website
 
-## Planning to build a personal website for basic information, skills updates, portfolio and links to more...
+# Estimate Publish Date: 1 July 2025
 
-### The tools I use are carefully selected by me to my own needs and I only listed their pros in how they may support my website's development, false advertising.
+### Still in development: 
+
+##### I will publish the code once I fully modified & all the website code so that people who need can just copy can paste to use the code.
